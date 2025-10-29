@@ -1,3 +1,5 @@
+#old version use random.py 
+
 # Create a simple random number generator using time
 import time
 seed = int(time.time() * 1000) % 1000000
